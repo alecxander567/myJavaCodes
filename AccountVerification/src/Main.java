@@ -81,15 +81,15 @@ public class Main {
 			myAccount[i] = new Account("", 0);
 		}
 		
-		myAccount[0].email = "Alec";
+		myAccount[0].email = "Admin1";
 		myAccount[0].passcode = 123;
-		myAccount[1].email = "Xander";
+		myAccount[1].email = "Admin2";
 		myAccount[1].passcode = 567;
-		myAccount[2].email = "Florentino";
+		myAccount[2].email = "Admin3";
 		myAccount[2].passcode = 8910;
-		myAccount[3].email = "Espaldon";
+		myAccount[3].email = "Admin4";
 		myAccount[3].passcode = 111213;
-		myAccount[4].email = "Arteezy";
+		myAccount[4].email = "Admin5";
 		myAccount[4].passcode = 23;
 		
 		do {
