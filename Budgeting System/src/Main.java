@@ -55,7 +55,7 @@ public class Main {
 				removeAmount = s.nextInt();
 				
 				if(removeAmount > thousands.length || removeAmount < 0) {
-					System.out.println("\nInvalid amount to cash");
+					System.out.println("\nInvalid amount to cash out!");
 				} else {
 					Budget[] newThousands = new Budget[thousands.length - removeAmount];
 					
