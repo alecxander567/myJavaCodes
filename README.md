@@ -1,2 +1,2 @@
-# myJavaCodes
+Java-Projects
 Beginner Level
